@@ -1,0 +1,7 @@
+72_id_checkngroups.patch
+cp-n.diff
+80_fedora_sysinfo.patch
+99_float_endian_detection.patch
+treat-devtmpfs-and-squashfs-as-dummy-filesystems.patch
+tail-fix-tailing-sysfs-files-where-PAGE_SIZE-BUFSIZ.patch
+CVE-2024-0684.patch
